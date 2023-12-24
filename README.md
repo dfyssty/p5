@@ -1,5 +1,5 @@
 ## 1
-![alt text](D:\BaiduNetdiskDownload\bf096b63f6246b600c3300d543b00d4c510fd9f90473.webp "Title")
+![alt text](https://github.com/username/repository/blob/master/images/image.jpg)
 ## 2
 
 #### 《P5R》是一款由ATLUS开发的角色扮演游戏，是《P5》的加强版。游戏在原有的基础上，新增了剧情、角色、系统等内容，让玩家在游戏中体验更加丰富多样的冒险。
